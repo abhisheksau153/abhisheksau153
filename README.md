@@ -43,13 +43,6 @@ I'm continuously learning and expanding my skill set. Currently, I'm focused on:
 Feel free to connect with me or check out my repositories. I'm always open to discussing new projects, collaborations, or opportunities in the data engineering field!
 
 ---
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ⭐️ From [Abhishek Saurabh](https://github.com/abhisheksau153)
 
